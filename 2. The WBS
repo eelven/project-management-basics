@@ -76,3 +76,87 @@ Project Tasks
 .It all comes down to individual project tasks
 The project plan is the lay-out of these tasks with times and resources
 assigned.
+
+--  __  --  __  --
+
+2.2 Planning and the WBS, Part 1 (5min)
+Work Breakdown Structure(WBS)
+.A way to plan the tasks for a project
+.A way to display the tasks for a project
+.A way to communicate the project complexity
+
+What is WBS?
+A deliverable-oriented grouping of project elements that organizes and defines
+the total scope of the project. Each descending level represents an increasingly
+detailed definition of the project work. Work not in the WBS is outside the scope
+of the project (PMBOK 2000ed)
+Some people say that the work break down structure should include the deliverables
+and a high level of work but not all the details of work.
+The detailed tasks of the project, according to PMI, would be listed either in a 
+thing called a WBS dictionary and or a separate task list, though the tasks would
+not be on the WBS. 
+Another school of thought, the detailed tasks are on the WBS. Starts with the 
+deliverables, goes all the way down though descending layers and levels of detail
+until we get to a very fine level of detail called a task, a detailed project task.
+
+Why a WBS ?
+.Fundation for planning the project
+.Project planning is based on the tasks displayed on the WBS
+.Provides a detailed ilustration of the project
+.Defines human resource cost etimates
+.Provides clear assignmentes to project members
+
+Deliverables and Tasks
+We will discuss:
+->Project deliverables
+->Project tasks
+(2:28)
+Deliverables_>Work Packages_>Project Activities_>Detailed Tasks
+The way the PMI lays out the common terms that are used, we have deliverables at
+the high level.
+We worked down to work packages, we break the work packages into project activities,
+and we break the project activities into detailed tasks.
+When we move into a schedule, we are going to put the detailed tasks on the project
+schedule.
+
+Two Major Schools at Thought
+1. Only include Deiliverables and Work Packages
+2. Include Deliverables, Work Packages, Project Activities, Detailed Tasks
+
+The Project Schedule is constructed from the Detailed Tasks.
+If you do not list items on the WBS, you still have to list them someplace
+possibly in a WBS Dictionary or a Task List.
+
+Identify the Tasks
+1. First define the deliverables
+2. Then identify the tasks that will create or provide those deliverables
+
+Deliverables have come from the initiating phase, and then in the beginning of
+the planning phase, to make sure that we're clear about the deliverables. Now
+we're gonna figure out how we're gonna make all this stuff happen.
+
+Deliverable
+Any unique and verifiable product, result, or capability to perform a service
+that must be produced to complete the process, phase, or project. Often used more
+narrowly in reference to an external deliverable, which is a deliverable that is
+subject to approval by the project sponsor or customer. (PMBOK 5ed)
+
+Project Activity
+A component of work performed during the course of a project (PMBOK 5ed.)
+
+The WBS Will Outline All 3 Ways Scope Is Viewed
+.Product Scope: The Things
+.Project Scope: The Work
+.Scope: The Things and The Work
+
+(video 3:59)
+The top level is called Program
+Program is a group of related projects, that together these projects make up one
+total thing, one total entity of some kind, called a Program.
+Most of us are going to be starting at the Project level we're Project Managers
+rather than Program Managers who are managing a whole lot of interrelated projects
+and Project Managers.
+
+--  __  --  __  --
+
+2.3 Planning and the WBS, Part 2 (9min)
