@@ -1,0 +1,78 @@
+2. The WBS (30min)
+
+2.1 Planning (11min)
+
+Initiating->Planning->Executing->Controlling->Closing
+
+Planning: Risk
+We have to look at risks to figure out what could go wrong
+with the project, because sometimes the risks in the project
+will actually determine some of the tasks we have to put into
+the project.
+"To be alive at all involves some risks" - Harold MacMillan
+
+Risks to a Project
+.All projects have risks
+.It is always best to know upfront
+.There are numerous risk analysis tools and methods
+.Use at least one
+
+What is "Risk"?
+An uncertain event or condition that, if it occurs, has a positive
+or negative effect on a project's objectives. (PMBOK 5 ed)
+
+4 Steps :
+1- Find the risks
+2- Analyze the risks
+3- Develop a risk plan
+4- Mitigate the risks as they arise
+
+When analyse this risk we're gonna talk about 2 elements
+-Impact:
+How bad will it be if it happens?
+How much will it affect the project?
+-Probability:
+What are the chances it will occur during the project?
+What is the likelihood something will fail?
+
+Now, there's another element to look at: 
+-Triggers:
+Cain I see it coming before it hits the project?
+Will I know when the risk has hit the project and is affecting it?
+This trigger piece is a way that helps us figure how we're going to
+put a risk management plan into our project.
+
+Make Decisions and Take Actions Based on Risk Priorities
+.Determine which risks will affect your project the most
+.Decide wich risks are the ones to plan countermeasures for and which to mitigate
+.Plan your actions
+
+(08:48) A form that comes from an organization ...
+... Every organization needs to figure out how risk adverse they are, and what
+that numbers needs to be brought down to so that we say, ok, this is an 
+acceptable risk.
+
+|RISK|Impact|Probability|TOTAL|MITIGATION|Impact|Probability|TOTAL|
+|    |      |           |     |          |      |           |     |
+|    |      |           |     |          |      |           |     |
+|____|______|___________|_____|__________|______|___________|_____|
+1-Negligible Impact               1-Low Probability
+2                                 2
+3                                 3   
+4                                 4
+5-Will Cause Critical Failure     5-Will definitely Occur
+
+We also need then to list our triggers
+Now the way that this works, impact and probability are multiplied together
+So to get our total numver, it's the number 1 through 5, and their impact
+one, number 1 through 5 under probability. We multiply those and come up
+with a number.
+You'll notice that triggers are not on here. Triggers are going to be a
+list that will accompany this chart. and the triggers will be the whole
+list of things that tells us when the risk is coming toward the project,
+or when the risk has already hit the project and is already affecting it.
+
+Project Tasks
+.It all comes down to individual project tasks
+The project plan is the lay-out of these tasks with times and resources
+assigned.
