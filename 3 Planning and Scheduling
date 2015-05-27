@@ -72,3 +72,124 @@ we're at with the progress and the project.
 
 3.2 Constructing a Schedule (12min)
 
+How Do We Construct a Schedule?
+1. Move the detailed tasks to the schedule
+-they come from the WBS
+2. Add the task durations
+-put those on the schedule
+3. Arrange the tasks into the sequential or simultaneous relationships
+-that we think work the best
+4. Add the initial start or finish if the overall project
+-start in beginning: schedule from beggining on through
+-start at the completion: schedule backwards to see when we should start the project
+5. Add the early and late start and finish times.
+6. Add whatever other information you might want, such as team members'names to task and costs
+
+(video 01:10) Example
+The headings for groups of tasks are NOT displayed on the network diagram
+
+Constructing the Schedule
+(Not all Project Managers use Network Diagrams. May only use Gantt Charts).
+.We will use our "Go To Work" WBS to construct a schedule for this mini project.
+.We will start with a Network Diagram (AON format). This is often a good planning tool.
+.We can move to a Gantt Chart
+
+This is the Building Block of the Network Diagram
+-------------------
+A         | D     |
+ES | LS | EF | LF |
+   |    |    |    |
+-------------------
+A=Activity
+D=Duration
+ES=Early Start
+LS=Late Start
+FF=Early Finish
+LF=Late Finish
+We need that information and them we can put together a schedule.
+
+(video 04:05) Start adding the other tasks and add the connecting lines that
+show which tasks lead to other tasks.
+These Connecting lines are called either predecessor lines or dependency lines
+They are dependency lines if you follow the arrow to the next task in the sequence
+They are called predecessor lines if you follow the arrow backward to the previous
+task in the sequence. Use whichever works best for you in a specif situation.
+
+(04:15)Let's Add More Tasks
+Remember that these tasks come directly from the WBS. We don't need to make up these
+taks in the WBS. The schedule just puts those tasks together in a different way - into
+a sequential schedule.
+
+Milestones
+.Milestones are zero duration tasks that designate significant events in the project
+.That is te case here. We are in the car ready to go to work, but we are not at work yet.
+There is still more to do to get to work.
+.Yes, being in the car is a significant spot in the project and can be displayed at a milestone.
+
+(video 05:08) Completed AON Network Diagram of "Go to Work"
+
+(video 06:19) Float Time in the Project
+
+(video 07:02) Float Time in the Project 
+
+(video 07:08) "Go to Work" Gantt Chart without Task Group Headings (Summary Tasks)
+
+(video 09:19) Software
+.Many good ones out there
+.Microsoft Project is becoming a standard
+-Everyone seems to have it
+-Transportability with other Microsoft programs
+
+Baseline
+.The original approves plan(for a project, a work package, or an activity), plus
+or minus approved scope changes. Usually used with a modifier (e.g., cost baseline,
+schedule baseline, performance measurement baseline). (PMI)
+Once we get our schedule laid out, we have a baseline for the project. You don't change
+the baseline. The only way to change the baseline is if you go back and redefine the project.
+Baseline stays the same and now we use that to judge how we're doing with the rest of the 
+project as we moved forward
+
+Human Resource COnstraints
+.Adjust the critical path based on tasks aling with resource constraints.
+We're going to first lay out our schedule, we're going to determine our critical path
+based on task relationships and then we might find that because we can't get some of the
+people we need on the specific dates we need them, that changes our schedule. And so now, 
+when we're finally done with the critical path, it's built on task relationships and the 
+availabillity of people that do the tasks at certain times
+
+(video 10:24) Sometimes Our Schedule Is Longer Than the Amount of Time We Have
+
+Crashing the Project
+A specific type of project schedule compression technique...to decrease the total project
+schedule duration...Typical approaches...include reducing schedule activity durations and
+increasing assignment of resources.
+Crashing often increases project costs. (PMI5ed)
+
+Fast Trackin the Project
+A specific type of project schedule compression technique that changes network logic to 
+overlap phases that would normally be done in sequence...or to perform schedule activities
+in parallel.
+Fast tracking often increases risks. (PMI5ed)
+
+There's one other way to do this which is reduce the scope of the project.
+
+Two Last Resorts
+Reduce the Scope: simply take some deliverables out of the project
+Reduce the Quality: provide something even if it is not what was originally specified
+
+Neither of these is preferred, but may be necessary
+
+So, those are our ways to change our project if doesn't fit into the time frame allotted,
+crash the project, fast track the project, reduce the scope or as a last resort, reduce
+the quality
+
+--__--__--
+
+3.3 Lecture Slides
+Planning and Scheduling
+https://d396qusza40orc.cloudfront.net/basicprojmanage/lecture_slides/Module%203%20Lecture%201%20-%20Planning%20and%20Scheduling.pdf
+
+Constructing a Schedule
+https://d396qusza40orc.cloudfront.net/basicprojmanage/lecture_slides/Module%203%20Lecture%202%20-%20Constructing%20a%20Schedule.pdf
+
+--__--__--
