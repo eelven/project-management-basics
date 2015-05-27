@@ -1,0 +1,74 @@
+3.1 Planning and Scheduling (12min)
+
+The Project Schedule
+.Show the relationship of the project activities and tasks
+.Show the dependencies (which tasks follow other tasks in a logical sequence)
+
+Two Concepts
+.Sequential
+.Simultaneous
+(video 03:12)
+
+Two More concepts
+.Critical Path
+.Float Time
+
+Critical Path
+Generally, but not always, the sequence of schedule activities that determines the
+duration of the project. It is the longest path through the project.
+
+Float Time
+
+Total Float Time (Slack Time)
+The total amount of time a schedule activity may be delayed from its early start date
+without delaying the project finish date or violating a schedule constraint.
+
+Free Float
+The total amount of time a schedule activity can be delayed without delaying early
+start of any immediately following schedule activities.
+
+What Does a Schedule Look Like?
+Gantt Chart
+Network Diagram
+
+They both show the same basic information in different ways
+
+Project Diagrams
+..Gantt Chart
+..Network Diagram
+-AOA (Activity On Arrow)
+-AON (Activity On Node)
+-PERT Chart (an early AON Diagram)
+
+..CPM (Critical Path Method)
+
+Project Diagrams
+.Gantt Chart
+  .. 1917, Henry Gantt
+.Network Diagram
+  - AOA (Activity On Arrow)
+  -. 1959, DuPont  
+  - AON (Activity On Node)
+  -. 1960, Navy and Nooze Allen
+  - PERT Chart (An early AON Diagram)
+.CPM (Critical Path Method)
+  . 1959, DuPont
+  
+The Project Schedule
+.Tasks Across a timeline
+.Road map
+-Project
+-Project Manager
+-Customers and stakeholders
+.Communication tool
+.Tracking tool
+
+To track your project you have to know where you should be today
+with progress and spending and then you track that against where
+you actually are. We have to have a schedule to figure where
+we're at with the progress and the project.
+
+--__--__--__
+
+3.2 Constructing a Schedule (12min)
+
