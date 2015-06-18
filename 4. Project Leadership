@@ -184,3 +184,124 @@ There May Be a Reason for "Faster" and "Cheaper"
 --__--__--__
 
 4.4 Monitoring and Controlling (8min)
+
+Monitoring and Controlling
+Initiating->Planning->Executing->Controlling->Closing
+
+Controlling
+The Monitoring and Controlling Process Group consists of those processes required to track, 
+review, and regulate the progress and performance of the project, identify any areas in which
+changes to the plan are required, and initiate the corresponding changes
+(PMBOK 5ed.)
+
+Track and Control the Project
+.Monitor
+.Evaluate
+.Take controlling actions
+  So you can
+.Successfully deliver results
+
+Tracking Requires Two Tools
+1. A project schedule to tell you where you should be with the project
+2. A communication plan to tell you where you actually are with the project
+
+(video 1:27) The Communication Plan
+
+Communication is Essential to Success
+.Who needs to be in the communication loops?
+.Why do they need to be in the loops?
+.How can the project manager keep people informed and involved?
+
+(video 1:48)Track Schedule Separately
+
+Earned Value Management
+A tool that shows both SPENDING and PROGRESS on the same chart
+(video 2:18)What does this tell us?
+(video 4:16)The Best of Everything
+
+Tracking the Project
+To track the project, compare where the project is at any given point with
+where it should be at that point.
+1. How much work is scheduled to be completed at this point compared with how
+much has actually been completed (SV or SPI)
+2. How much money is budgeted to be spent at this point compared with how much
+has actually been spent (CV or CPI)
+
+If You Are Using Earned Value Management
+To track the project you compare:
+1.How much work is scheduled to be completed at this point (PV) compare with
+how much has actually been completed (EV)
+2.How much money is budgeted to be spent for this amount of completed work(EV)
+compared with how much has actually been spent (AC)
+
+What if it Goes off Track?
+Check the:
+.S,Q,C,T targets
+.Strategy
+.Estimates
+.Reporting of schedule and spending
+.Human elements
+  ..your team
+  ..the organization
+  ..the customer
+  ..other stakeholders
+
+Typically we find out that 85% to 90% of the problems we're gonna run across on
+the project or some sort a system issues. Something wrong with what happened
+in planning or something and only 10% are gonna be because of the project team.
+Your team, the organization, the customer, other stakeholders, it's gonna be a 
+small element in all of this.
+
+Do Something to Fix It
+.Monitor the project
+.Evaluate what is happening and determine why
+.Take controlling actions
+  ..On the task and technical side
+  ..On the human dynamics side
+
+  So you can
+.Sucessfully deliver results
+
+Crashing the Project
+A specific type of project schedule compression technique... to decrease
+the total project schedule duration... Typical approaches... include
+reducing schedule activity durations and increasing assignment of resources
+Crashing often increases project costs
+(PMBOK 5ed.)
+
+Fast Tracking the Project
+A specific type of project schedule compression technique that changes network
+logic to overlap phases that would normally be done in sequence... or to perform
+schedule activities in parallel
+Fast Tracking often increases risks
+(PMBOK 5ed.)
+
+Reduce the Scope
+The possibility to reduce the scope of the project is always present. This option
+might not be available to us because of stakeholder demands. With this option we
+simply remove some elements from the project and do not provide those related
+deliverables.
+Project managers cannot do magic. Projects have to obey the laws of the physical
+universe.  So consider: crashing, fast tracking, or reducing scope.
+
+it all goes back to the S,Q,C,T targets and the strategy
+1.Lower the quality to reduce task durations or eliminate tasks
+2.Reduce the scope
+3.Increase the budget
+4.Develop a new strategy
+5.Replace team members
+6.Anything else you can imagine
+replacing team members, that's one of the very last things to look at.
+That's hardly ever the problem
+
+If Expectations Change (and they will)
+.Refocus the customer or stakeholder
+.Adjust the project (scope change)
+.Re-define the project
+  ..S,Q,C,T targets and relationships
+  ..Strategy
+
+--__--__--
+
+4.5 Closing a Project
+
